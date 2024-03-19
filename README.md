@@ -1,3 +1,6 @@
+# ad-320-gatsby-app
+To run this app, navigate to this repository in the terminal and type 'npx expo start' in the terminal. You will need to access the 'http://localhost:8081/' to access the webpage.
+
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
